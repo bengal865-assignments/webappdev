@@ -3,4 +3,4 @@
 * Bullet 1
 * Bullet 2
 
-[Link to markdown page](test123.md)
+[Link to Amazon](test123.md)
