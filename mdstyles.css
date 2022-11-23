@@ -2,3 +2,8 @@ body {
   font-family: 'Barlow', sans-serif;
   background-color: #09c;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
